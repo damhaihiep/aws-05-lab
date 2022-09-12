@@ -17,7 +17,7 @@
 13: B  
 14: C  
 15: B,E  
-16: A,B,C,D  
+16: A,B,D  
 17: B
 
 # Phần 2: Thực hành
